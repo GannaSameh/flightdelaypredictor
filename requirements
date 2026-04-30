@@ -6,3 +6,4 @@ requests
 joblib
 seaborn
 matplotlib
+sklearn
